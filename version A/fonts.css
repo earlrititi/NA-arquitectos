@@ -1,5 +1,5 @@
 /* Fuentes base del proyecto, alojadas localmente en fonts/.
-   No están enlazadas desde los HTML: la web activa usa Arial/Georgia.
+   No están enlazadas desde los HTML: la web activa usa Inter e Instrument Serif desde Google Fonts.
    Para activarlas, añade <link rel="stylesheet" href="fonts.css"> al <head>. */
 
 @font-face {

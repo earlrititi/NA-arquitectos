@@ -12,11 +12,11 @@ Archivos WOFF2 (subconjunto **latin**, suficiente para español) descargados de 
 
 `fonts.css` (en la raíz del repo) define los `@font-face` apuntando a estos archivos.
 
-Estado actual de la web: **no enlazado**. Los HTML siguen usando Arial/Georgia.
+Estado actual de la web: **no enlazado**. Los HTML cargan Inter e Instrument Serif desde Google Fonts; estos archivos son la base local.
 
 Para activar estas fuentes en el futuro:
 
 1. Añadir `<link rel="stylesheet" href="fonts.css">` en el `<head>` de los HTML, antes de `styles.css`.
-2. Ajustar `styles.css` para usar `font-family:'Inter','Arial',sans-serif` y `font-family:'EB Garamond',Georgia,serif`.
+2. Ajustar `styles.css` para usar `font-family:'Inter',sans-serif` y `font-family:'Instrument Serif',serif`.
 
 Fuentes originales: https://fonts.google.com/specimen/Inter y https://fonts.google.com/specimen/EB+Garamond
