@@ -1,0 +1,36 @@
+N+A ARQUITECTOS — PROPUESTA DE REDISEÑO WEB
+Edición conceptual 01 · 17/11/2026
+
+CÓMO VER EL PROTOTIPO
+1. Descomprimir el archivo ZIP completo.
+2. Abrir index.html en Chrome, Edge, Firefox o Safari.
+3. Navegar con el menú: Estudio, Proyectos, Publicaciones y Contacto.
+4. Cambiar entre ESPAÑOL e INGLÉS con ES / EN (textos escritos manualmente para el concepto).
+5. Abrir la carpeta capturas para ver los seis mockups completos en PNG. Hay dos capturas adicionales de móvil.
+6. vision_general.png presenta las seis pantallas de un vistazo.
+
+PANTALLAS INCLUIDAS
+- index.html: Inicio / portada, mensaje de marca, obras destacadas.
+- proyectos.html: índice editorial de proyectos (selección ilustrativa).
+- casa-del-rio.html: ficha de proyecto individual Casa del Río.
+- estudio.html: historia, filosofía y fundadores.
+- publicaciones.html: publicaciones y prensa.
+- contacto.html: datos actuales del estudio y ejemplo de formulario.
+
+IMPORTANTE
+- Es un PROTOTIPO VISUAL, NO una web lista para publicación.
+- Las fotografías arquitectónicas son CONCEPTUALES y generadas para estudiar composiciones: no documentan necesariamente proyectos reales de N+A.
+- Hay que sustituirlas por las fotografías reales del estudio, con sus permisos/licencias.
+- El formulario no envía mensajes; confirma que se trata de una demo.
+- La navegación del índice de Proyectos abre la ficha demostrativa de Casa del Río; en producción cada obra tendrá su ficha real.
+- Los filtros visuales de Proyectos todavía no están programados.
+- Traducción ES/EN: los titulares y textos del concepto han sido redactados expresamente en cada lengua. Antes de publicar, revisar la terminología arquitectónica y completar todas las fichas reales.
+- Tipografías representadas en la captura: EB Garamond e Inter; propuesta final: Instrument Serif + Manrope (o licencias editoriales equivalentes).
+- El contenido de Casa del Río, los nombres y los datos de contacto se han apoyado en el contenido público existente de na-arquitectos.eu.
+
+DIRECCIÓN DE ARTE
+- Fotografía grande con aire cinematográfico
+- Composición editorial asimétrica
+- Titulares serif expresivos y cuerpo de texto sans serif
+- Marfil #F5F2ED; piedra #EAE4DB; grafito #27251F
+- Microinteracciones discretas, legibilidad y diseño adaptable a móvil
