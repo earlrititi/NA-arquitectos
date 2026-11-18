@@ -6,7 +6,7 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.project,.gallery-track,.project .details{transition:none!important}}
 /* Navbar animado sobre el hero */
 .nav{position:absolute!important;top:0;left:0;right:0;z-index:50!important;height:92px!important;background:transparent!important;border:0!important;color:#fff!important;padding:0 clamp(28px,5vw,83px)!important;display:flex!important;align-items:center!important;justify-content:space-between!important}
-.nav:before{content:"";position:absolute;left:0;bottom:0;width:100%;height:1px;background:rgba(255,255,255,.9);transform:scaleX(0);transform-origin:left center;pointer-events:none;animation:nav-bar 1s cubic-bezier(.22,1,.36,1) forwards}
+.nav:before{content:"";position:absolute;left:clamp(28px,5vw,83px);right:22vw;bottom:0;height:1px;background:rgba(226,239,255,.92);transform:scaleX(0);transform-origin:left center;pointer-events:none;animation:nav-bar 1s cubic-bezier(.22,1,.36,1) forwards}
 .nav .logo{width:155px!important;height:70px!important;object-fit:contain;object-position:left center;filter:brightness(0) invert(1);opacity:0;transform:translateY(6px);animation:nav-in .35s cubic-bezier(.22,1,.36,1) 1s forwards}
 .navitems a,.nav .lang{font-size:11px;color:#fff!important;opacity:0;transform:translateX(-14px);animation:nav-letter .45s cubic-bezier(.22,1,.36,1) forwards}
 .navitems a{text-transform:uppercase;font-weight:600;letter-spacing:.08em;border-bottom:2px solid transparent;padding-bottom:12px;margin-bottom:-14px;transition:color .2s}
